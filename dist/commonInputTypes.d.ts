@@ -1,4 +1,4 @@
-import type * as Prisma from "./internal/prismaNamespace.ts";
+import type * as Prisma from "./internal/prismaNamespace.js";
 export type UuidFilter<$PrismaModel = never> = {
     equals?: string | Prisma.StringFieldRefInput<$PrismaModel>;
     in?: string[] | Prisma.ListStringFieldRefInput<$PrismaModel>;

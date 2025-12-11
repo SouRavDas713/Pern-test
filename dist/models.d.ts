@@ -1,4 +1,4 @@
-export type * from './models/User.ts';
-export type * from './models/UserAddress.ts';
-export type * from './commonInputTypes.ts';
+export type * from './models/User.js';
+export type * from './models/UserAddress.js';
+export type * from './commonInputTypes.js';
 //# sourceMappingURL=models.d.ts.map
